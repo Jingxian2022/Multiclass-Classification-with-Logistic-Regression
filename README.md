@@ -20,7 +20,7 @@ To reproduce the results, ensure you have Python 3.12.7 installed along with the
 ## Authors
 - Allison Gao
 	- Email: rui_gao@brown.edu
-	- Github: AllisonGao
+	- GitHub: AllisonGao
 	
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
