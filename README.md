@@ -13,9 +13,12 @@ To reproduce the results, ensure you have Python 3.12.7 installed along with the
 ## Requirements
 - Python: 3.12.7
 - Numpy: 2.0.1
-- Matplotlib: 3.9.1
 - Scikit-learn: 1.5.1
 - Pandas: 2.2.2
+- pytest: 7.4.4
+- imbalanced-learn: 0.12.4
+
+
 
 ## Authors
 - Allison Gao
